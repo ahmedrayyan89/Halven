@@ -26,7 +26,7 @@ A cinematic, immersive landing page for a fictional luxury exoplanet tourism age
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/halven.git
+git clone https://github.com/ahmedrayyan89/halven.git
 
 # Navigate to the project
 cd halven
