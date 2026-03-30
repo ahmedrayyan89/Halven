@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Video assets — hosted on CDN, not in repo
+public/videos/*.mp4
+public/videos/*.webm
