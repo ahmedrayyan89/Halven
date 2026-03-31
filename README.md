@@ -2,7 +2,7 @@
 
 A cinematic, immersive landing page for a fictional luxury exoplanet tourism agency. Built with AI-generated video backgrounds, glassmorphism UI, and smooth scroll animations.
 
-![Halven Preview](public/fallbacks/hero-fallback.webp)
+![HALVEN Preview](public/preview.png)
 
 ## Features
 
