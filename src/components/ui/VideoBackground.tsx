@@ -47,7 +47,7 @@ export default function VideoBackground({
         playsInline
         autoPlay
         preload="auto"
-        className="absolute inset-0 w-full h-full object-cover hidden md:block"
+        className="absolute inset-0 w-full h-full object-cover"
       />
 
       {/* Layer 3: Gradient overlay */}
