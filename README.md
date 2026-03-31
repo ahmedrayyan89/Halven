@@ -4,6 +4,9 @@ A cinematic, immersive landing page for a fictional luxury exoplanet tourism age
 
 ![HALVEN Preview](public/preview.png)
 
+**🌐 Live Demo → [halven-gold.vercel.app](https://halven-gold.vercel.app)**
+
+
 ## Features
 
 - **Cinematic AI Video Backgrounds** — Generated with AI video tools, compressed for web performance
