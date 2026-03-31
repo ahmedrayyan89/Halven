@@ -36,3 +36,24 @@ npm install
 
 # Start the development server
 npm run dev
+
+Open http://localhost:3000 to view the site.
+```
+
+## How It's Built
+
+  The "impossible looking" 3D visuals aren't WebGL or Three.js. Here's the actual technique:
+
+- **AI video generation** — cinematic video loops generated with AI tools
+- **Video as background** — MP4 files dropped into <video> elements behind content
+- **Glassmorphism overlay** — backdrop-filter: blur() cards floating over the video
+- **Framer Motion** — scroll-triggered animations for every section
+- **Next.js + Tailwind** — the actual codebase is lightweight and clean
+
+## License
+MIT — free to fork, modify, and use for your own projects.
+
+
+
+
+
